@@ -32,7 +32,7 @@ b. INSIGHT: Younger passengers likely recieved priority during evacuation.
 
 2. Survival Rates by passenger class
 
-![Survival Rates by passenger class](images/Survival_by_passengerClass.png)
+![Survival Rates by passenger class](images/Survival_by_passenger_class.png)
 
 a. OBSERVATION: 1st-class passengers had the highest survival rate (62.9%), while 3rd class had the lowest (24.2%).
 
@@ -40,7 +40,7 @@ b. INSIGHT: Socio-economic factors played a significant role in survival.
 
 3. Survival Rate by Family Size
    
-![Survival Rate by Family Size](image/Survival_by_Familysize.png)  
+![Survival Rate by Familysize](image/Survival_by_Familysize.png)  
 
 OBSERVATION: Passengers with small families (1-3 members) had the highest survival rates.
 
