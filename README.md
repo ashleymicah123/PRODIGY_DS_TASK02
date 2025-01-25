@@ -54,7 +54,7 @@ a. OBSERVATION: Passengers boarding at Cherbourg had the highest survival rates.
 
 5. Correlation Heatmap
 
-![Correlation Heatmap](image/Correlation_Heatmap.png)
+![Correlation Heatmap](images/Correlation_Heatmap.png)
 
 a. OBSERVATION: Strong Correlation observed between survival and features like Fare and Pclass.
 
