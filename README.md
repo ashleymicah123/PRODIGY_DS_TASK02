@@ -32,7 +32,7 @@ b. INSIGHT: Younger passengers likely recieved priority during evacuation.
 
 2. Survival Rates by passenger class
 
-![Survival Rates by passenger class](images/Survival_by_Passenger Class.png)
+![Survival Rates by passenger class](images/Survival_by_passengerClass.png)
 
 a. OBSERVATION: 1st-class passengers had the highest survival rate (62.9%), while 3rd class had the lowest (24.2%).
 
