@@ -1,2 +1,18 @@
-# PRODIGY_DS_TASK02
-This project analyzes the Titanic dataset using data cleaning and EDA to uncover survival trends. Key insights include higher survival rates for women, children, first-class passengers, and those with smaller families. Visualizations like bar plots and heatmaps highlight patterns. Tools used: Python, Pandas, Matplotlib, and Seaborn.
+# TITANIC DATASET: EXPLORATORY DATA ANALYSIS
+This repository showcases my work on the Titanic dataset as part of my internship at Prodigy Infotech. The goal of this task was to perform data cleaning, exploratory data analysis (EDA), and identify patterns and relationships in the data that influenced passenger survival.
+
+# OBJECTIVE
+To analyze the Titanic dataset and:
+
+1. Perform data cleaning to handle missing or inconsistent data.
+2. Conduct EDA to explore survival rates and patterns.
+3. Visualize relationships between variables like gender, passenger class, age group, and family size.
+
+# DATA CLEANING
+Before analysis, the dataset was cleaned to ensure accuracy. Key steps included:
+
+a. Identifying and handling missing values in the Age and Embarked columns.
+b. Dropping columns like Name and Cabin, which were not relevant to the task.
+
+# Key insights and visualizations
+1. Survival Rates by Gender
