@@ -68,3 +68,8 @@ b. Libraries: Pandas, Matplotlib,Seaborn
 a. Further analysis by incorporating additional variables like Ticket Prefix and Deck.
 b. Develop predictive models based on these insights.
 
+# About Me
+This project reflects my journey of applying data analysis techniques to real-world datasets. I hope it serves as an inspiration and resource for others venturing into data analytics. Feel free to explore, fork, or reach out with feedback!
+
+
+
