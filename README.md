@@ -24,7 +24,7 @@ b. INSIGHT: This aligns with the " Women and Children first" evacuation policy.
 
 1. Survival Rates by Age Group
    
-![Survival Rates by Age Group](images/Survival_by_Agegroup.png)
+![Survival Rates by Age Group](images/Survival_by_Age_group.png)
 
 a. OBSERVATION: Children under 16 had the highest survival rate compared to other age groups
 
@@ -32,7 +32,7 @@ b. INSIGHT: Younger passengers likely recieved priority during evacuation.
 
 2. Survival Rates by passenger class
 
-![Survival Rates by passenger class](images/Survival_by_Passengerclass.png)
+![Survival Rates by passenger class](images/Survival_by_Passenger_Class.png)
 
 a. OBSERVATION: 1st-class passengers had the highest survival rate (62.9%), while 3rd class had the lowest (24.2%).
 
@@ -40,7 +40,7 @@ b. INSIGHT: Socio-economic factors played a significant role in survival.
 
 3. Survival Rate by Family Size
    
-![Survival Rate by Family Size](image/Survival_by_Familysize.png)
+![Survival Rate by Family Size](image/Survival_by_Family_size.png)
 
 OBSERVATION: Passengers with small families (1-3 members) had the highest survival rates.
 
@@ -48,7 +48,7 @@ INSIGHT: Larger families may have struggles to stay together during evacuation.
 
 4. Survival Rate by Port of Embarkation
 
-![Survival Rate by Port of Embarkation](image/Embarkedplot.png)
+![Survival Rate by Port of Embarkation](image/embarked_plot.png)
 
 a. OBSERVATION: Passengers boarding at Cherbourg had the highest survival rates.
 
