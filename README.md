@@ -13,7 +13,7 @@ Before analysis, the dataset was cleaned to ensure accuracy. Key steps included:
 
 a. Identifying and handling missing values in the Age and Embarked columns.
 b. Dropping columns like Name and Cabin, which were not relevant to the task.
-![Survival Rates by Gender](images/survival_by_sex.png)
+![Survival Rates by Gender](images/Survival_by_Sex.png)
 c. Observation: Women had a much higher survival rate (74.2%) compared to men (18.9%).
 d. Insight: This aligns with the " Women and Children first" evacuation policy.
 
