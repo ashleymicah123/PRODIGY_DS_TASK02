@@ -40,7 +40,7 @@ b. INSIGHT: Socio-economic factors played a significant role in survival.
 
 3. Survival Rate by Family Size
    
-![Survival Rate by Familysize](image/Survival_by_Family_size.png)  
+![Survival Rate by Family size](image/Survival_by_Family_size.png)  
 
 OBSERVATION: Passengers with small families (1-3 members) had the highest survival rates.
 
